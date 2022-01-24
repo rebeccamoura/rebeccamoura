@@ -11,7 +11,7 @@
 
 🌎 ┇ https://rebeccamoura.github.io/portfolio/ (Em desenvolvimento 🚧); <br />
 🎓 ┇ Cursando 2º período de Análise e Desenvolvimento de Sistemas; <br />
-🤓 ┇ Estudando Typescript e Angular; <br />
+🤓 ┇ Estudando React; <br />
 💼 ┇ Buscando meu primeiro emprego; <br />
 🥰 ┇ Apaixonada por desenvolvimento; <br />
 🚀 ┇ Sempre aprendendo e dando meu melhor.
