@@ -9,10 +9,10 @@
 
 <br />
 
-🌎 ┇ https://rebeccamoura.github.io/portfolio/ (Em desenvolvimento 🚧); <br />
+🌎 ┇ https://rebeccamoura.github.io/portfolio/; <br />
 🎓 ┇ Cursando 2º período de Análise e Desenvolvimento de Sistemas; <br />
-🤓 ┇ Estudando React; <br />
-💼 ┇ Buscando meu primeiro emprego; <br />
+🤓 ┇ Estudando Angular; <br />
+💼 ┇ Atuando como estagiária em front-end; <br />
 🥰 ┇ Apaixonada por desenvolvimento; <br />
 🚀 ┇ Sempre aprendendo e dando meu melhor.
 
