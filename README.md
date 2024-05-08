@@ -12,7 +12,7 @@
 🌎 ┇ https://rebeccamoura.github.io/portfolio/; <br />
 🎓 ┇ Cursando 4º período de Análise e Desenvolvimento de Sistemas; <br />
 🤓 ┇ Estudando Angular; <br />
-💼 ┇ Atuando como estagiária em front-end; <br />
+💼 ┇ Atuando como front-end Junior; <br />
 🥰 ┇ Apaixonada por desenvolvimento; <br />
 🚀 ┇ Sempre aprendendo e dando meu melhor.
 
