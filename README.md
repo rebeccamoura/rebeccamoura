@@ -10,9 +10,7 @@
 <br />
 
 🌎 ┇ https://rebeccamoura.github.io/portfolio/; <br />
-🎓 ┇ Cursando 4º período de Análise e Desenvolvimento de Sistemas; <br />
-🤓 ┇ Estudando Angular; <br />
-💼 ┇ Atuando como front-end Junior; <br />
+&#128187; ┇ Desenvolvedora front-end há 4 anos; <br />
 🥰 ┇ Apaixonada por desenvolvimento; <br />
 🚀 ┇ Sempre aprendendo e dando meu melhor.
 
